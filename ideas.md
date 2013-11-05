@@ -7,7 +7,9 @@
 - [7 Useful Git Tips for Beginners](http://sixrevisions.com/web-development/git-tips/)
 - [rawgithub](https://github.com/rgrove/rawgithub):
 rawgithub.com serves files from raw.github.com, but with the correct content types.
-
+- [More Git and GitHub Secrets](https://speakerdeck.com/holman/more-git-and-github-secrets)
+- [ConFoo - Git for Ninjas](https://speakerdeck.com/benstraub/confoo-git-for-ninjas)
+- [Git and GitHub Secrets](https://speakerdeck.com/holman/git-and-github-secrets)
 
 # Utilities
 
