@@ -1,41 +1,59 @@
 1. Git is awesome
-2. Git interactive?
-2. Github
-  a. Github secrets
-    - canonical URLs (press Y)
-      This page won't change even if the branch does
+  - version control
+  - deployment
+  - git as database
+  - ...
 
-    - Access to user's public keys
-      https://github.com/loicmahieu.keys
+2. Git hosting
+  a. Github
+    a. Summary
+    b. Github secrets
+      - Concept Fork + pull request
 
-    - Github URL shortener (git.io)
-      CLI: gitio <url> <name>
+      - Raw github!
 
-    - Github language detection
-      github.com/github/linguist
+      - Github pages!
 
-    - Email replies
+      - canonical URLs (press Y)
+        This page won't change even if the branch does
 
-    - github:gist: ain't just for snippets
-      - prototyping tool
-      - comments
-      - screenshots
-      - code
-      - ...
-      Git are full repos!!
+      - Access to user's public keys
+        https://github.com/loicmahieu.keys
 
-    - Github with command line
-      `hub` (https://github.com/github/hub)
+      - Github URL shortener (git.io)
+        CLI: gitio <url> <name>
 
-    - Advanced compare
-      ( https://github.com/paulmillr/ostio/compare/master%40%7B300day%7D...master )
-  b. You can do a lot without leaving the browser
-    - Create branch/new file/...
-    - file template
-  c. Tasks list/wiki/pull requests
-3. Gitlab
-4. Git Extras
-5. Git GUI ? Sourcetree, Tower, ...
+      - Email replies
+
+      - Github language detection
+        github.com/github/linguist
+
+      - github:gist: ain't just for snippets
+        - prototyping tool
+        - comments
+        - screenshots
+        - code
+        - ...
+        Git are full repos!!
+
+      - Github with command line
+        `hub` (https://github.com/github/hub)
+
+      - Advanced compare
+        ( https://github.com/paulmillr/ostio/compare/master%40%7B300day%7D...master )
+        ( https://github.com/thedersen/backbone.validation/compare/v0.8.2...v0.9.0 )
+    c. You can do a lot without leaving the browser
+      - Create branch/new file/...
+      - file template
+    d. Tasks list/wiki/pull requests
+      - Wiki as git repot
+
+  c. bitbucket ?
+
+  d. Gitlab
+
+4. Git GUI ? Smartgit, Tower, Sourcetree, ...
+5. Git Extras
 3. Git tips
   a. merge strategy ?
   b. submodule
