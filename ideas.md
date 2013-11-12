@@ -1,6 +1,10 @@
 
 - [Git is Awesome](http://jeetworks.org/node/11)
 
+# Tutorials
+
+- [Try Git!](http://try.github.io/)
+
 
 # Tips
 
@@ -10,6 +14,7 @@ rawgithub.com serves files from raw.github.com, but with the correct content typ
 - [More Git and GitHub Secrets](https://speakerdeck.com/holman/more-git-and-github-secrets)
 - [ConFoo - Git for Ninjas](https://speakerdeck.com/benstraub/confoo-git-for-ninjas)
 - [Git and GitHub Secrets](https://speakerdeck.com/holman/git-and-github-secrets)
+
 
 # Utilities
 
@@ -30,6 +35,23 @@ Grit gives you object oriented read/write access to Git repositories via Ruby.
 
 - [gitmodel](https://github.com/pauldowman/gitmodel):
 An ActiveModel-compliant persistence framework for Ruby that uses Git for versioning and remote syncing.
+
+
+# GUI
+
+- [Tower](http://www.git-tower.com/)
+- [Source Tree](http://www.sourcetreeapp.com/)
+- [Git box](http://gitboxapp.com/)
+- [GitX-dev](http://rowanj.github.io/gitx/)
+- [SmartGit](http://www.syntevo.com/smartgithg/)
+- [Git Eye](http://www.collab.net/giteyeapp)
+- [GitHub for Windows](http://windows.github.com/‎)
+- [GitHub for Mac](http://mac.github.com/‎)
+
+
+# Diff Tools
+
+- [DiffMerge](http://www.sourcegear.com/diffmerge/)
 
 
 # Softwares
@@ -70,3 +92,20 @@ Docker powered mini-Heroku in less than 100 lines of Bash.
 
 - [git-internals-pdf](https://github.com/pluralsight/git-internals-pdf):
 PDF on Git Internals.
+
+
+# Gitlab
+
+- [Gitlab : un Clone de Github Open Source](http://www.blogduwebdesign.com/git-presentation/decouvrez-gitlab-un-clone-de-github-open-source/821)
+
+
+# Cheat sheets
+
+- [Git Cheatsheet: Categorize Git's commands based on what they affect.](http://www.ndpsoftware.com/git-cheatsheet.html)
+- [Tower Git Cheat sheet](http://www.git-tower.com/blog/git-cheat-sheet-detail/)
+
+
+# Maybe...
+
+- [git + webcam = lulz.](http://mroth.github.io/lolcommits/)
+
