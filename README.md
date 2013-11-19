@@ -1,10 +1,13 @@
 
+- [Git-SCM](http://git-scm.com/)
+
 - [Git is Awesome](http://jeetworks.org/node/11)
 
 # Tutorials
 
 - [Try Git!](http://try.github.io/)
-
+- [Prise en main rapide de git](http://soulesidibe.wordpress.com/2012/12/04/prise-en-main-rapide-de-git/) (A lire pour confirmer...)
+- [Git Basics](http://teamtreehouse.com/library/git-basics)
 
 # Tips
 
@@ -14,6 +17,9 @@ rawgithub.com serves files from raw.github.com, but with the correct content typ
 - [More Git and GitHub Secrets](https://speakerdeck.com/holman/more-git-and-github-secrets)
 - [ConFoo - Git for Ninjas](https://speakerdeck.com/benstraub/confoo-git-for-ninjas)
 - [Git and GitHub Secrets](https://speakerdeck.com/holman/git-and-github-secrets)
+- [Git config - les options indispensables](http://blog.ninja-squad.com/2013/09/30/git-config/)
+- [Signing Git tags](http://blog.thesoftwarecraft.com/2013/03/signing-git-tags.html)
+- [Git push via HTTP (ou comment travailler au MacDo)](http://sametmax.com/git-push-via-http-ou-comment-travailler-au-macdo/)
 
 
 # Utilities
@@ -45,6 +51,7 @@ An ActiveModel-compliant persistence framework for Ruby that uses Git for versio
 - [GitX-dev](http://rowanj.github.io/gitx/)
 - [SmartGit](http://www.syntevo.com/smartgithg/)
 - [Git Eye](http://www.collab.net/giteyeapp)
+- [Ungit](https://github.com/FredrikNoren/ungit)
 - [GitHub for Windows](http://windows.github.com/‎)
 - [GitHub for Mac](http://mac.github.com/‎)
 
@@ -57,7 +64,9 @@ An ActiveModel-compliant persistence framework for Ruby that uses Git for versio
 # Softwares
 
 - [GitLab](http://gitlab.org/):
-GitLab is open source software to collaborate on code. 
+GitLab is open source software to collaborate on code.
+
+- [Gitorious](https://gitorious.org/)
 
 - [gaskit](https://github.com/bkeepers/gaskit):
 a git-backed issue tracker
@@ -90,8 +99,11 @@ Docker powered mini-Heroku in less than 100 lines of Bash.
 
 # Reads
 
+- [Pro Git Book](http://git-scm.com/book)
 - [git-internals-pdf](https://github.com/pluralsight/git-internals-pdf):
 PDF on Git Internals.
+- [Conversational Git](http://blog.anvard.org/conversational-git/)
+- [Change the Past](http://jaxenter.com/change-the-past-48961.html)
 
 
 # Gitlab
@@ -108,4 +120,11 @@ PDF on Git Internals.
 # Maybe...
 
 - [git + webcam = lulz.](http://mroth.github.io/lolcommits/)
+
+
+# Workflow
+
+- [A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model/)
+- [Git Workflows by Altlassian](https://www.atlassian.com/git/workflows#!workflow-feature-branch)
+- [The essence of branch-based workflows](http://blogs.atlassian.com/2013/11/the-essence-of-branch-based-workflows/)
 
