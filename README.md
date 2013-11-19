@@ -117,14 +117,16 @@ PDF on Git Internals.
 - [Tower Git Cheat sheet](http://www.git-tower.com/blog/git-cheat-sheet-detail/)
 
 
-# Maybe...
-
-- [git + webcam = lulz.](http://mroth.github.io/lolcommits/)
-
-
 # Workflow
 
 - [A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model/)
 - [Git Workflows by Altlassian](https://www.atlassian.com/git/workflows#!workflow-feature-branch)
 - [The essence of branch-based workflows](http://blogs.atlassian.com/2013/11/the-essence-of-branch-based-workflows/)
+
+
+# Funny
+
+- [git + webcam = lulz.](http://mroth.github.io/lolcommits/)
+- [Mexico has some opinions on your git workflow.](https://twitter.com/mcs/status/400777097943056385)
+- [wheningit.tumblr.com](http://wheningit.tumblr.com/)
 
