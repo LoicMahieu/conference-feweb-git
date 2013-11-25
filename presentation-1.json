@@ -1,0 +1,1161 @@
+{
+  "slides": [
+    {
+      "components": [
+        {
+          "src": "http://i.imgur.com/pVD1sjp.png",
+          "type": "Image",
+          "x": 34,
+          "y": 0,
+          "scale": {
+            "x": 0.75078125,
+            "y": 0.75078125,
+            "width": 961,
+            "height": 768.8
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 0,
+      "selected": false,
+      "active": false,
+      "x": 180,
+      "y": 180
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 266,
+          "y": 175,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "<font face=\"Droid Sans Mono\">{<br>&nbsp; \"name\": \"<font color=\"#c36322\">Loïc Mahieu\"</font>,<br>&nbsp; \"job\": {<br>&nbsp; &nbsp; \"position\": \"<font color=\"#c36322\">CTO</font>\",<br>&nbsp; &nbsp; \"type\": \"<font color=\"#c36322\">Software Engineer\"</font><br>&nbsp; &nbsp; \"at\": {<br>&nbsp; &nbsp; &nbsp; \"company\": \"<font color=\"#c36322\">iGLOO</font>\",<br>&nbsp; &nbsp; &nbsp; \"location\": \"<font color=\"#c36322\">Louvain-La-Neuve</font>\"<br>&nbsp; &nbsp; }<br>&nbsp; },<br>&nbsp; \"twitter\": \"<font color=\"#c36322\">LoicMahieu</font>\",<br>&nbsp; \"github\": \"<font color=\"#c36322\">LoicMahieu</font>\"<br>}<br></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 266,
+          "y": 127,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font face=\"Droid Sans Mono\" color=\"#760000\">&gt; whois \"Loïc Mahieu\"</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 1,
+      "selected": false,
+      "active": false,
+      "x": 525,
+      "y": 180,
+      "background": "bg-transparent",
+      "surface": "bg-default"
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 250,
+          "y": 298,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font face=\"Droid Sans Mono\" color=\"#760000\">Git eco-system</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 1.12,
+      "rotateY": -1.57,
+      "rotateZ": 1.51,
+      "index": 2,
+      "selected": false,
+      "active": false,
+      "x": 734,
+      "y": -68
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 114,
+          "y": 237,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font face=\"Droid Sans Mono, monospace\">1. Git au centre de la communication<br>&nbsp; - Git<font color=\"#c36322\">Hub</font><br>&nbsp; - Git<font color=\"#c36322\">Lab</font><br>&nbsp; - BitBucket<br>2. Git GUI<br></font>&nbsp; &nbsp; &nbsp; &nbsp;- Tower<br>&nbsp; &nbsp; &nbsp; &nbsp;- SmartGit<br>&nbsp; &nbsp; &nbsp; &nbsp;- SourceTree<br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 3,
+      "selected": false,
+      "active": false,
+      "x": 1000,
+      "y": 132
+    },
+    {
+      "components": [
+        {
+          "src": "http://i.imgur.com/Avf3BlU.png",
+          "type": "Image",
+          "x": 129,
+          "y": 3,
+          "scale": {
+            "x": 0.743,
+            "y": 0.743,
+            "width": 743,
+            "height": 304.63
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/sz4SAzD.jpg",
+          "type": "Image",
+          "x": 297,
+          "y": 303,
+          "scale": {
+            "x": 0.4497767857142857,
+            "y": 0.4497767857142857,
+            "width": 403,
+            "height": 403
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 4,
+      "selected": false,
+      "active": false,
+      "x": 196,
+      "y": 465
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 350,
+          "y": 279,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font face=\"Droid Sans Mono\" color=\"#333333\">Commits<br></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 5,
+      "selected": false,
+      "active": false,
+      "x": 577,
+      "y": 454
+    },
+    {
+      "components": [
+        {
+          "src": "http://i.imgur.com/zPHHi1e.png",
+          "type": "Image",
+          "x": -32,
+          "y": -15,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 6,
+      "selected": false,
+      "active": false,
+      "x": 949,
+      "y": 443
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 350,
+          "y": 279,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font face=\"Droid Sans Mono\" color=\"#333333\">Branches<br></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 7,
+      "selected": false,
+      "active": false,
+      "x": 1369,
+      "y": 139
+    },
+    {
+      "components": [
+        {
+          "src": "http://i.imgur.com/VDPrKEO.png",
+          "type": "Image",
+          "x": -22,
+          "y": -25,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 1.32,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 8,
+      "selected": false,
+      "active": false,
+      "x": 1369,
+      "y": 418
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 224,
+          "y": 299,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font face=\"Droid Sans Mono\" color=\"#333333\">Tags &amp; Releases<br></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 9,
+      "selected": false,
+      "active": false,
+      "x": 1691,
+      "y": 145
+    },
+    {
+      "components": [
+        {
+          "src": "http://i.imgur.com/nQ2ItyU.png",
+          "type": "Image",
+          "x": -52,
+          "y": -7,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0.6,
+      "index": 10,
+      "selected": false,
+      "active": false,
+      "x": 1742,
+      "y": 409
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 378,
+          "y": 67,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font face=\"Droid Sans Mono\" color=\"#333333\">Issues<br></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 328,
+          "y": 242,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<div style=\"text-align: center;\"><span style=\"font-family: 'Droid Sans Mono';\">Issues Tracking</span></div><div style=\"text-align: center;\">Discussions</div><div style=\"text-align: center;\">Feature requests</div><div style=\"text-align: center;\">Work logs</div><div style=\"text-align: center;\">Documentation</div><div style=\"text-align: center;\"><br></div>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 11,
+      "selected": false,
+      "active": false,
+      "x": 2261,
+      "y": 134
+    },
+    {
+      "components": [
+        {
+          "src": "http://i.imgur.com/LfJJe5X.png",
+          "type": "Image",
+          "x": -45,
+          "y": -26,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 12,
+      "selected": false,
+      "active": false,
+      "x": 2247,
+      "y": 405
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 325,
+          "y": 232,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font face=\"Droid Sans Mono\">ISSUE CAN BE...<br></font>&gt; Commented on<br>&gt; Assigned<br>&gt; Have code added<br>&gt; Closed<br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0.96,
+      "rotateZ": 0,
+      "index": 13,
+      "selected": false,
+      "active": false,
+      "x": 2288,
+      "y": 625
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 158,
+          "y": 306,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font face=\"Droid Sans Mono\" color=\"#333333\">Comments everywhere</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 14,
+      "selected": false,
+      "active": false,
+      "x": 2222,
+      "y": 922
+    },
+    {
+      "components": [
+        {
+          "src": "http://i.imgur.com/GGDEw9o.png",
+          "type": "Image",
+          "x": 24,
+          "y": -40,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 15,
+      "selected": false,
+      "active": false,
+      "x": 1828,
+      "y": 792
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 409,
+          "y": 307.29894490035167,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font face=\"Droid Sans Mono\" color=\"#333333\">Wiki</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 16,
+      "selected": false,
+      "active": false,
+      "x": 1398,
+      "y": 754
+    },
+    {
+      "components": [
+        {
+          "src": "http://i.imgur.com/PYxIdH1.png",
+          "type": "Image",
+          "x": -48,
+          "y": -20,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 17,
+      "selected": false,
+      "active": false,
+      "x": 964,
+      "y": 751
+    },
+    {
+      "components": [
+        {
+          "src": "http://i.imgur.com/SIhWJAO.png",
+          "type": "Image",
+          "x": 278,
+          "y": 196,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 18,
+      "selected": false,
+      "active": false,
+      "background": "bg-transparent",
+      "x": 562,
+      "y": 760,
+      "surface": "bg-custom-1f2c31"
+    },
+    {
+      "components": [
+        {
+          "src": "http://i.imgur.com/zNAcIOt.png",
+          "type": "Image",
+          "x": 211,
+          "y": 68,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 19,
+      "selected": false,
+      "active": false,
+      "x": 170,
+      "y": 763
+    },
+    {
+      "components": [
+        {
+          "src": "http://i.imgur.com/HlSGgLf.jpg",
+          "type": "Image",
+          "x": 287,
+          "y": 177,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 20,
+      "selected": false,
+      "active": false,
+      "x": 173,
+      "y": 1077
+    },
+    {
+      "components": [
+        {
+          "src": "http://i.imgur.com/a3715j2.png",
+          "type": "Image",
+          "x": 212,
+          "y": 261,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 21,
+      "selected": false,
+      "active": false,
+      "x": 575,
+      "y": 1090
+    },
+    {
+      "components": [
+        {
+          "src": "http://i.imgur.com/f1KgxZU.png",
+          "type": "Image",
+          "x": -59,
+          "y": -28,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 22,
+      "selected": false,
+      "active": false,
+      "x": 1022,
+      "y": 1102
+    },
+    {
+      "components": [
+        {
+          "src": "http://i.imgur.com/e5jgJQq.png",
+          "type": "Image",
+          "x": 158,
+          "y": 219,
+          "scale": {
+            "x": 0.7253446447507953,
+            "y": 0.7253446447507953,
+            "width": 684,
+            "height": 274.18027571580063
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 23,
+      "selected": false,
+      "active": false,
+      "x": 1461,
+      "y": 1102
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 52,
+          "y": 259,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font face=\"Droid Sans Mono\" color=\"#333333\">&gt; Self hosted<br>&gt; Complètement gratuit et open source <br>&nbsp; (MIT license)<br>&gt; Utilisé par plus de 25.000 organisations<br></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 24,
+      "selected": false,
+      "active": false,
+      "x": 1851,
+      "y": 1143
+    },
+    {
+      "components": [
+        {
+          "src": "http://i.imgur.com/KHnoT9l.png",
+          "type": "Image",
+          "x": -11,
+          "y": 14,
+          "scale": {
+            "x": 0.7653508771929824,
+            "y": 0.7653508771929824,
+            "width": 1047,
+            "height": 665.8552631578947
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 25,
+      "selected": false,
+      "active": false,
+      "x": 2207,
+      "y": 1230
+    },
+    {
+      "components": [
+        {
+          "src": "http://i.imgur.com/VqWDqL3.png",
+          "type": "Image",
+          "x": -1,
+          "y": 20,
+          "scale": {
+            "x": 0.7707715133531158,
+            "y": 0.7707715133531158,
+            "width": 1039,
+            "height": 680.5912462908012
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 26,
+      "selected": true,
+      "active": true,
+      "x": 2210,
+      "y": 1518
+    },
+    {
+      "components": [
+        {
+          "src": "http://i.imgur.com/Pry9C5p.png",
+          "type": "Image",
+          "x": -38,
+          "y": 34,
+          "scale": {
+            "x": 0.7909356725146199,
+            "y": 0.7909356725146199,
+            "width": 1082,
+            "height": 687.3230994152048
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 27,
+      "selected": false,
+      "active": false,
+      "x": 7740,
+      "y": 1300
+    },
+    {
+      "components": [
+        {
+          "src": "http://i.imgur.com/jk9TBHq.png",
+          "type": "Image",
+          "x": -43,
+          "y": 45,
+          "scale": {
+            "x": 0.5848660010509722,
+            "y": 0.5848660010509722,
+            "width": 1113,
+            "height": 633.4098791382029
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 28,
+      "selected": false,
+      "active": false,
+      "x": 8020,
+      "y": 1300
+    },
+    {
+      "components": [
+        {
+          "src": "http://i.imgur.com/5Sb9V9e.png",
+          "type": "Image",
+          "x": -44,
+          "y": 34,
+          "scale": {
+            "x": 0.6684684684684684,
+            "y": 0.6684684684684684,
+            "width": 1113,
+            "height": 650.4198198198197
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 29,
+      "selected": false,
+      "active": false,
+      "x": 8300,
+      "y": 1300
+    },
+    {
+      "components": [
+        {
+          "src": "http://i.imgur.com/iARAxly.png",
+          "type": "Image",
+          "x": 136,
+          "y": 229,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 30,
+      "selected": false,
+      "active": false,
+      "x": 8580,
+      "y": 1580
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 326,
+          "y": 264,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font face=\"Droid Sans Mono\" color=\"#333333\">Git GUI's</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 31,
+      "selected": false,
+      "active": false,
+      "x": 8860,
+      "y": 1580
+    },
+    {
+      "components": [
+        {
+          "src": "http://i.imgur.com/U86pHtX.jpg",
+          "type": "Image",
+          "x": 13,
+          "y": 139,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 32,
+      "selected": false,
+      "active": false,
+      "x": 9140,
+      "y": 1580
+    },
+    {
+      "components": [
+        {
+          "src": "http://i.imgur.com/sDAlUTN.jpg",
+          "type": "Image",
+          "x": -18,
+          "y": 1,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 33,
+      "selected": false,
+      "active": false,
+      "x": 9420,
+      "y": 1580
+    },
+    {
+      "components": [
+        {
+          "src": "http://i.imgur.com/xn1UDXc.png",
+          "type": "Image",
+          "x": 425,
+          "y": 287,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 34,
+      "selected": false,
+      "active": false,
+      "x": 9700,
+      "y": 1580
+    },
+    {
+      "components": [
+        {
+          "src": "http://i.imgur.com/43V5FnS.png",
+          "type": "Image",
+          "x": -2,
+          "y": -1,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 35,
+      "selected": false,
+      "active": false,
+      "x": 9980,
+      "y": 1580
+    },
+    {
+      "components": [
+        {
+          "src": "http://i.imgur.com/RYscF9I.png",
+          "type": "Image",
+          "x": 207,
+          "y": 270,
+          "scale": {
+            "x": 0.585,
+            "y": 0.585,
+            "width": 585,
+            "height": 146.25
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 36,
+      "selected": false,
+      "active": false,
+      "x": 10260,
+      "y": 1860
+    },
+    {
+      "components": [
+        {
+          "src": "http://i.imgur.com/DxzdtwJ.png",
+          "type": "Image",
+          "x": 31,
+          "y": 150,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 37,
+      "selected": false,
+      "active": false,
+      "x": 10540,
+      "y": 1860
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 55,
+          "y": 255,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font face=\"Droid Sans Mono\" color=\"#333333\">github.com/</font><font face=\"Droid Sans Mono\"><font color=\"#1499b9\">loicmahieu/conference-feweb-git</font><br></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 180,
+          "y": 103,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font face=\"Droid Sans Mono\" color=\"#1f2c31\">Info, liens, astuces...</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 166,
+          "y": 689,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#1f2c31\" face=\"Droid Sans Mono\">(&nbsp;Envoie moi une pull request! )</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 38,
+      "selected": false,
+      "active": false,
+      "x": 10820,
+      "y": 1860
+    }
+  ],
+  "background": "bg-transparent",
+  "activeSlide": {
+    "components": [
+      {
+        "src": "http://i.imgur.com/VqWDqL3.png",
+        "type": "Image",
+        "x": -1,
+        "y": 20,
+        "scale": {
+          "x": 0.7707715133531158,
+          "y": 0.7707715133531158,
+          "width": 1039,
+          "height": 680.5912462908012
+        },
+        "imageType": "PNG",
+        "selected": false
+      }
+    ],
+    "z": 0,
+    "impScale": 3,
+    "rotateX": 0,
+    "rotateY": 0,
+    "rotateZ": 0,
+    "index": 26,
+    "selected": true,
+    "active": true,
+    "x": 2210,
+    "y": 1518
+  },
+  "fileName": "presentation-1",
+  "customStylesheet": "/*.example {\n\tborder: 4px groove orange;\n}*/",
+  "deckVersion": "1.0",
+  "customBackgrounds": {
+    "bgs": [
+      {
+        "klass": "bg-custom-1f2c31",
+        "style": "#1f2c31"
+      }
+    ]
+  },
+  "overviewX": 5495,
+  "overviewY": 896
+}
