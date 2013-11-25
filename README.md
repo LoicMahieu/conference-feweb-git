@@ -1,4 +1,7 @@
 
+![Git: Contrôle des versions, gestion des sources et bien plus encore...](./fewebsession6.png "Git: Contrôle des versions, gestion des sources et bien plus encore...")
+
+
 - [Git-SCM](http://git-scm.com/)
 
 - [Git is Awesome](http://jeetworks.org/node/11)
@@ -122,6 +125,13 @@ PDF on Git Internals.
 - [A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model/)
 - [Git Workflows by Altlassian](https://www.atlassian.com/git/workflows#!workflow-feature-branch)
 - [The essence of branch-based workflows](http://blogs.atlassian.com/2013/11/the-essence-of-branch-based-workflows/)
+- [Using Gitflow with the GitHub Fork & Pull Model](http://www.dalescott.net/wordpress/?p=1266)
+
+
+# Videos
+
+- [Tech Talk: Linus Torvalds on git](https://www.youtube.com/watch?v=4XpnKHJAok8)
+- [What's a Pull Request?](http://vimeo.com/68815367)
 
 
 # Funny
