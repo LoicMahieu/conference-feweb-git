@@ -1,5 +1,5 @@
 
-![Git: Contrôle des versions, gestion des sources et bien plus encore...](./fewebsession6.png "Git: Contrôle des versions, gestion des sources et bien plus encore...")
+![Git: Contrôle des versions, gestion des sources et bien plus encore...](./images/fewebsession6.png "Git: Contrôle des versions, gestion des sources et bien plus encore...")
 
 
 - [Git-SCM](http://git-scm.com/)
