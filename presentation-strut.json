@@ -40,7 +40,7 @@
           },
           "type": "TextBox",
           "size": 24,
-          "text": "<font face=\"Droid Sans Mono\">{<br>&nbsp; \"name\": \"<font color=\"#c36322\">Loïc Mahieu\"</font>,<br>&nbsp; \"job\": {<br>&nbsp; &nbsp; \"position\": \"<font color=\"#c36322\">CTO</font>\",<br>&nbsp; &nbsp; \"type\": \"<font color=\"#c36322\">Software Engineer\"</font><br>&nbsp; &nbsp; \"at\": {<br>&nbsp; &nbsp; &nbsp; \"company\": \"<font color=\"#c36322\">iGLOO</font>\",<br>&nbsp; &nbsp; &nbsp; \"location\": \"<font color=\"#c36322\">Louvain-La-Neuve</font>\"<br>&nbsp; &nbsp; }<br>&nbsp; },<br>&nbsp; \"twitter\": \"<font color=\"#c36322\">LoicMahieu</font>\",<br>&nbsp; \"github\": \"<font color=\"#c36322\">LoicMahieu</font>\"<br>}<br></font>",
+          "text": "<font face=\"Droid Sans Mono\">{<br>&nbsp; \"name\": \"<font color=\"#c36322\">Loïc Mahieu\"</font>,<br>&nbsp; \"job\": {<br>&nbsp; &nbsp; \"position\": \"<font color=\"#c36322\">CTO</font>\",<br>&nbsp; &nbsp; \"type\": \"<font color=\"#c36322\">Software Engineer</font><font color=\"#1f2c31\">\"</font><br>&nbsp; &nbsp; \"at\": {<br>&nbsp; &nbsp; &nbsp; \"company\": \"<font color=\"#c36322\">iGLOO</font>\",<br>&nbsp; &nbsp; &nbsp; \"location\": \"<font color=\"#c36322\">Louvain-La-Neuve</font>\"<br>&nbsp; &nbsp; }<br>&nbsp; },<br>&nbsp; \"twitter\": \"<font color=\"#c36322\">LoicMahieu</font>\",<br>&nbsp; \"github\": \"<font color=\"#c36322\">LoicMahieu</font>\"<br>}<br></font>",
           "selected": false
         },
         {
@@ -88,14 +88,14 @@
       ],
       "z": 0,
       "impScale": 3,
-      "rotateX": 1.12,
-      "rotateY": -1.57,
-      "rotateZ": 1.51,
+      "rotateX": 0,
+      "rotateY": 0.01,
+      "rotateZ": 0.17,
       "index": 2,
       "selected": false,
       "active": false,
-      "x": 734,
-      "y": -68
+      "x": 908,
+      "y": 153
     },
     {
       "components": [
@@ -121,8 +121,8 @@
       "index": 3,
       "selected": false,
       "active": false,
-      "x": 1000,
-      "y": 132
+      "x": 1325,
+      "y": 135
     },
     {
       "components": [
@@ -169,6 +169,58 @@
     {
       "components": [
         {
+          "src": "http://i.imgur.com/ft1vBkm.png",
+          "type": "Image",
+          "x": -32,
+          "y": -8,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 5,
+      "selected": false,
+      "active": false,
+      "x": 474,
+      "y": 452
+    },
+    {
+      "components": [
+        {
+          "src": "http://i.imgur.com/D4RsxqE.png",
+          "type": "Image",
+          "x": -52,
+          "y": -14,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 6,
+      "selected": false,
+      "active": false,
+      "x": 891,
+      "y": 438
+    },
+    {
+      "components": [
+        {
           "TextBox": {},
           "x": 350,
           "y": 279,
@@ -187,11 +239,11 @@
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0,
-      "index": 5,
+      "index": 7,
       "selected": false,
       "active": false,
-      "x": 577,
-      "y": 454
+      "x": 1309,
+      "y": 411
     },
     {
       "components": [
@@ -213,11 +265,11 @@
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0,
-      "index": 6,
+      "index": 8,
       "selected": false,
       "active": false,
-      "x": 949,
-      "y": 443
+      "x": 1699,
+      "y": 433
     },
     {
       "components": [
@@ -240,11 +292,11 @@
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0,
-      "index": 7,
+      "index": 9,
       "selected": false,
       "active": false,
-      "x": 1369,
-      "y": 139
+      "x": 2120,
+      "y": 447
     },
     {
       "components": [
@@ -263,14 +315,14 @@
       ],
       "z": 0,
       "impScale": 3,
-      "rotateX": 1.32,
+      "rotateX": -0.08,
       "rotateY": 0,
-      "rotateZ": 0,
-      "index": 8,
+      "rotateZ": -0.14,
+      "index": 10,
       "selected": false,
       "active": false,
-      "x": 1369,
-      "y": 418
+      "x": 1720,
+      "y": 136
     },
     {
       "components": [
@@ -293,11 +345,11 @@
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0,
-      "index": 9,
+      "index": 11,
       "selected": false,
       "active": false,
-      "x": 1691,
-      "y": 145
+      "x": 2178,
+      "y": 136
     },
     {
       "components": [
@@ -319,11 +371,11 @@
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0.6,
-      "index": 10,
+      "index": 12,
       "selected": false,
       "active": false,
-      "x": 1742,
-      "y": 409
+      "x": 2688,
+      "y": 150
     },
     {
       "components": [
@@ -359,11 +411,11 @@
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0,
-      "index": 11,
+      "index": 13,
       "selected": false,
       "active": false,
-      "x": 2261,
-      "y": 134
+      "x": 2688,
+      "y": 433
     },
     {
       "components": [
@@ -385,11 +437,11 @@
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0,
-      "index": 12,
+      "index": 14,
       "selected": false,
       "active": false,
-      "x": 2247,
-      "y": 405
+      "x": 2869,
+      "y": 719
     },
     {
       "components": [
@@ -410,13 +462,13 @@
       "z": 0,
       "impScale": 3,
       "rotateX": 0,
-      "rotateY": 0.96,
+      "rotateY": -0.04,
       "rotateZ": 0,
-      "index": 13,
+      "index": 15,
       "selected": false,
       "active": false,
-      "x": 2288,
-      "y": 625
+      "x": 2464,
+      "y": 738
     },
     {
       "components": [
@@ -439,11 +491,11 @@
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0,
-      "index": 14,
+      "index": 16,
       "selected": false,
       "active": false,
-      "x": 2222,
-      "y": 922
+      "x": 2043,
+      "y": 752
     },
     {
       "components": [
@@ -465,11 +517,11 @@
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0,
-      "index": 15,
+      "index": 17,
       "selected": false,
       "active": false,
-      "x": 1828,
-      "y": 792
+      "x": 1673,
+      "y": 750
     },
     {
       "components": [
@@ -485,6 +537,19 @@
           "size": 64,
           "text": "<font face=\"Droid Sans Mono\" color=\"#333333\">Wiki</font>",
           "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 246,
+          "y": 431,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font face=\"Droid Sans Mono\" color=\"#1499b9\">github.com/gollum/gollum</font>",
+          "selected": false
         }
       ],
       "z": 0,
@@ -492,11 +557,11 @@
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0,
-      "index": 16,
+      "index": 18,
       "selected": false,
       "active": false,
-      "x": 1398,
-      "y": 754
+      "x": 1316,
+      "y": 755
     },
     {
       "components": [
@@ -518,7 +583,7 @@
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0,
-      "index": 17,
+      "index": 19,
       "selected": false,
       "active": false,
       "x": 964,
@@ -544,7 +609,7 @@
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0,
-      "index": 18,
+      "index": 20,
       "selected": false,
       "active": false,
       "background": "bg-transparent",
@@ -572,11 +637,89 @@
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0,
-      "index": 19,
+      "index": 21,
       "selected": false,
       "active": false,
       "x": 170,
       "y": 763
+    },
+    {
+      "components": [
+        {
+          "src": "http://i.imgur.com/4ZBINOT.png",
+          "type": "Image",
+          "x": 269,
+          "y": 172,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 22,
+      "selected": false,
+      "active": false,
+      "x": 182,
+      "y": 1041
+    },
+    {
+      "components": [
+        {
+          "src": "http://i.imgur.com/RuVFkjC.png",
+          "type": "Image",
+          "x": 41,
+          "y": -7,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 23,
+      "selected": false,
+      "active": false,
+      "x": 579,
+      "y": 1031
+    },
+    {
+      "components": [
+        {
+          "src": "http://i.imgur.com/2czpjZo.png",
+          "type": "Image",
+          "x": 74,
+          "y": 179,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 24,
+      "selected": false,
+      "active": false,
+      "x": 981,
+      "y": 1045
     },
     {
       "components": [
@@ -598,11 +741,11 @@
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0,
-      "index": 20,
+      "index": 25,
       "selected": false,
       "active": false,
-      "x": 173,
-      "y": 1077
+      "x": 1400,
+      "y": 1011
     },
     {
       "components": [
@@ -624,11 +767,11 @@
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0,
-      "index": 21,
+      "index": 26,
       "selected": false,
       "active": false,
-      "x": 575,
-      "y": 1090
+      "x": 1800,
+      "y": 1029
     },
     {
       "components": [
@@ -650,11 +793,11 @@
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0,
-      "index": 22,
+      "index": 27,
       "selected": false,
       "active": false,
-      "x": 1022,
-      "y": 1102
+      "x": 2253,
+      "y": 964
     },
     {
       "components": [
@@ -678,11 +821,11 @@
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0,
-      "index": 23,
+      "index": 28,
       "selected": false,
       "active": false,
-      "x": 1461,
-      "y": 1102
+      "x": 2255,
+      "y": 1246
     },
     {
       "components": [
@@ -705,11 +848,11 @@
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0,
-      "index": 24,
+      "index": 29,
       "selected": false,
       "active": false,
-      "x": 1851,
-      "y": 1143
+      "x": 1873,
+      "y": 1331
     },
     {
       "components": [
@@ -733,11 +876,11 @@
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0,
-      "index": 25,
+      "index": 30,
       "selected": false,
       "active": false,
-      "x": 2207,
-      "y": 1230
+      "x": 1469,
+      "y": 1325
     },
     {
       "components": [
@@ -761,11 +904,11 @@
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0,
-      "index": 26,
-      "selected": true,
-      "active": true,
-      "x": 2210,
-      "y": 1518
+      "index": 31,
+      "selected": false,
+      "active": false,
+      "x": 1026,
+      "y": 1347
     },
     {
       "components": [
@@ -789,11 +932,11 @@
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0,
-      "index": 27,
+      "index": 32,
       "selected": false,
       "active": false,
-      "x": 7740,
-      "y": 1300
+      "x": 598,
+      "y": 1338
     },
     {
       "components": [
@@ -817,11 +960,11 @@
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0,
-      "index": 28,
+      "index": 33,
       "selected": false,
       "active": false,
-      "x": 8020,
-      "y": 1300
+      "x": 6711,
+      "y": 1075
     },
     {
       "components": [
@@ -845,11 +988,11 @@
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0,
-      "index": 29,
+      "index": 34,
       "selected": false,
       "active": false,
-      "x": 8300,
-      "y": 1300
+      "x": 6686,
+      "y": 1288
     },
     {
       "components": [
@@ -871,11 +1014,11 @@
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0,
-      "index": 30,
+      "index": 35,
       "selected": false,
       "active": false,
-      "x": 8580,
-      "y": 1580
+      "x": 6697,
+      "y": 1491
     },
     {
       "components": [
@@ -898,11 +1041,11 @@
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0,
-      "index": 31,
-      "selected": false,
-      "active": false,
-      "x": 8860,
-      "y": 1580
+      "index": 36,
+      "selected": true,
+      "active": true,
+      "x": 6725,
+      "y": 1749
     },
     {
       "components": [
@@ -924,7 +1067,7 @@
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0,
-      "index": 32,
+      "index": 37,
       "selected": false,
       "active": false,
       "x": 9140,
@@ -950,7 +1093,7 @@
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0,
-      "index": 33,
+      "index": 38,
       "selected": false,
       "active": false,
       "x": 9420,
@@ -976,7 +1119,7 @@
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0,
-      "index": 34,
+      "index": 39,
       "selected": false,
       "active": false,
       "x": 9700,
@@ -1002,7 +1145,7 @@
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0,
-      "index": 35,
+      "index": 40,
       "selected": false,
       "active": false,
       "x": 9980,
@@ -1030,7 +1173,7 @@
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0,
-      "index": 36,
+      "index": 41,
       "selected": false,
       "active": false,
       "x": 10260,
@@ -1056,7 +1199,7 @@
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0,
-      "index": 37,
+      "index": 42,
       "selected": false,
       "active": false,
       "x": 10540,
@@ -1067,7 +1210,7 @@
         {
           "TextBox": {},
           "x": 55,
-          "y": 255,
+          "y": 308,
           "scale": {
             "x": 1,
             "y": 1
@@ -1076,32 +1219,6 @@
           "size": 36,
           "text": "<font face=\"Droid Sans Mono\" color=\"#333333\">github.com/</font><font face=\"Droid Sans Mono\"><font color=\"#1499b9\">loicmahieu/conference-feweb-git</font><br></font>",
           "selected": false
-        },
-        {
-          "TextBox": {},
-          "x": 180,
-          "y": 103,
-          "scale": {
-            "x": 1,
-            "y": 1
-          },
-          "type": "TextBox",
-          "size": 48,
-          "text": "<font face=\"Droid Sans Mono\" color=\"#1f2c31\">Info, liens, astuces...</font>",
-          "selected": false
-        },
-        {
-          "TextBox": {},
-          "x": 166,
-          "y": 689,
-          "scale": {
-            "x": 1,
-            "y": 1
-          },
-          "type": "TextBox",
-          "size": 36,
-          "text": "<font color=\"#1f2c31\" face=\"Droid Sans Mono\">(&nbsp;Envoie moi une pull request! )</font><br>",
-          "selected": false
         }
       ],
       "z": 0,
@@ -1109,7 +1226,7 @@
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0,
-      "index": 38,
+      "index": 43,
       "selected": false,
       "active": false,
       "x": 10820,
@@ -1120,17 +1237,16 @@
   "activeSlide": {
     "components": [
       {
-        "src": "http://i.imgur.com/VqWDqL3.png",
-        "type": "Image",
-        "x": -1,
-        "y": 20,
+        "TextBox": {},
+        "x": 326,
+        "y": 264,
         "scale": {
-          "x": 0.7707715133531158,
-          "y": 0.7707715133531158,
-          "width": 1039,
-          "height": 680.5912462908012
+          "x": 1,
+          "y": 1
         },
-        "imageType": "PNG",
+        "type": "TextBox",
+        "size": 64,
+        "text": "<font face=\"Droid Sans Mono\" color=\"#333333\">Git GUI's</font>",
         "selected": false
       }
     ],
@@ -1139,11 +1255,11 @@
     "rotateX": 0,
     "rotateY": 0,
     "rotateZ": 0,
-    "index": 26,
+    "index": 36,
     "selected": true,
     "active": true,
-    "x": 2210,
-    "y": 1518
+    "x": 6725,
+    "y": 1749
   },
   "fileName": "presentation-1",
   "customStylesheet": "/*.example {\n\tborder: 4px groove orange;\n}*/",
@@ -1155,7 +1271,5 @@
         "style": "#1f2c31"
       }
     ]
-  },
-  "overviewX": 5495,
-  "overviewY": 896
+  }
 }
