@@ -447,33 +447,6 @@
       "components": [
         {
           "TextBox": {},
-          "x": 325,
-          "y": 232,
-          "scale": {
-            "x": 1,
-            "y": 1
-          },
-          "type": "TextBox",
-          "size": 36,
-          "text": "<font face=\"Droid Sans Mono\">ISSUE CAN BE...<br></font>&gt; Commented on<br>&gt; Assigned<br>&gt; Have code added<br>&gt; Closed<br>",
-          "selected": false
-        }
-      ],
-      "z": 0,
-      "impScale": 3,
-      "rotateX": 0,
-      "rotateY": -0.04,
-      "rotateZ": 0,
-      "index": 15,
-      "selected": false,
-      "active": false,
-      "x": 2464,
-      "y": 738
-    },
-    {
-      "components": [
-        {
-          "TextBox": {},
           "x": 158,
           "y": 306,
           "scale": {
@@ -491,7 +464,7 @@
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0,
-      "index": 16,
+      "index": 15,
       "selected": false,
       "active": false,
       "x": 2043,
@@ -517,7 +490,7 @@
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0,
-      "index": 17,
+      "index": 16,
       "selected": false,
       "active": false,
       "x": 1673,
@@ -557,7 +530,7 @@
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0,
-      "index": 18,
+      "index": 17,
       "selected": false,
       "active": false,
       "x": 1316,
@@ -583,7 +556,7 @@
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0,
-      "index": 19,
+      "index": 18,
       "selected": false,
       "active": false,
       "x": 964,
@@ -609,7 +582,7 @@
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0,
-      "index": 20,
+      "index": 19,
       "selected": false,
       "active": false,
       "background": "bg-transparent",
@@ -637,7 +610,7 @@
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0,
-      "index": 21,
+      "index": 20,
       "selected": false,
       "active": false,
       "x": 170,
@@ -663,7 +636,7 @@
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0,
-      "index": 22,
+      "index": 21,
       "selected": false,
       "active": false,
       "x": 182,
@@ -689,7 +662,7 @@
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0,
-      "index": 23,
+      "index": 22,
       "selected": false,
       "active": false,
       "x": 579,
@@ -715,7 +688,7 @@
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0,
-      "index": 24,
+      "index": 23,
       "selected": false,
       "active": false,
       "x": 981,
@@ -741,7 +714,7 @@
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0,
-      "index": 25,
+      "index": 24,
       "selected": false,
       "active": false,
       "x": 1400,
@@ -767,7 +740,7 @@
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0,
-      "index": 26,
+      "index": 25,
       "selected": false,
       "active": false,
       "x": 1800,
@@ -793,7 +766,7 @@
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0,
-      "index": 27,
+      "index": 26,
       "selected": false,
       "active": false,
       "x": 2253,
@@ -821,7 +794,7 @@
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0,
-      "index": 28,
+      "index": 27,
       "selected": false,
       "active": false,
       "x": 2255,
@@ -848,7 +821,7 @@
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0,
-      "index": 29,
+      "index": 28,
       "selected": false,
       "active": false,
       "x": 1873,
@@ -876,7 +849,7 @@
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0,
-      "index": 30,
+      "index": 29,
       "selected": false,
       "active": false,
       "x": 1469,
@@ -904,7 +877,7 @@
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0,
-      "index": 31,
+      "index": 30,
       "selected": false,
       "active": false,
       "x": 1026,
@@ -932,7 +905,7 @@
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0,
-      "index": 32,
+      "index": 31,
       "selected": false,
       "active": false,
       "x": 598,
@@ -960,11 +933,11 @@
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0,
-      "index": 33,
+      "index": 32,
       "selected": false,
       "active": false,
-      "x": 6711,
-      "y": 1075
+      "x": 176,
+      "y": 1300
     },
     {
       "components": [
@@ -988,11 +961,11 @@
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0,
-      "index": 34,
+      "index": 33,
       "selected": false,
       "active": false,
-      "x": 6686,
-      "y": 1288
+      "x": 105,
+      "y": 1566
     },
     {
       "components": [
@@ -1014,11 +987,11 @@
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0,
-      "index": 35,
+      "index": 34,
       "selected": false,
       "active": false,
-      "x": 6697,
-      "y": 1491
+      "x": 450,
+      "y": 1572
     },
     {
       "components": [
@@ -1041,11 +1014,11 @@
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0,
-      "index": 36,
-      "selected": true,
-      "active": true,
-      "x": 6725,
-      "y": 1749
+      "index": 35,
+      "selected": false,
+      "active": false,
+      "x": 848,
+      "y": 1570
     },
     {
       "components": [
@@ -1067,11 +1040,11 @@
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0,
-      "index": 37,
+      "index": 36,
       "selected": false,
       "active": false,
-      "x": 9140,
-      "y": 1580
+      "x": 1190,
+      "y": 1604
     },
     {
       "components": [
@@ -1093,11 +1066,11 @@
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0,
-      "index": 38,
+      "index": 37,
       "selected": false,
       "active": false,
-      "x": 9420,
-      "y": 1580
+      "x": 1573,
+      "y": 1594
     },
     {
       "components": [
@@ -1119,11 +1092,11 @@
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0,
-      "index": 39,
+      "index": 38,
       "selected": false,
       "active": false,
-      "x": 9700,
-      "y": 1580
+      "x": 1969,
+      "y": 1668
     },
     {
       "components": [
@@ -1145,11 +1118,11 @@
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0,
-      "index": 40,
+      "index": 39,
       "selected": false,
       "active": false,
-      "x": 9980,
-      "y": 1580
+      "x": 1569,
+      "y": 1882
     },
     {
       "components": [
@@ -1173,11 +1146,12 @@
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0,
-      "index": 41,
-      "selected": false,
-      "active": false,
-      "x": 10260,
-      "y": 1860
+      "index": 40,
+      "selected": true,
+      "active": true,
+      "x": 1166,
+      "y": 1858,
+      "markdown": ""
     },
     {
       "components": [
@@ -1199,11 +1173,11 @@
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0,
-      "index": 42,
+      "index": 41,
       "selected": false,
       "active": false,
-      "x": 10540,
-      "y": 1860
+      "x": 799,
+      "y": 1876
     },
     {
       "components": [
@@ -1226,27 +1200,28 @@
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0,
-      "index": 43,
+      "index": 42,
       "selected": false,
       "active": false,
-      "x": 10820,
-      "y": 1860
+      "x": 228,
+      "y": 1856
     }
   ],
   "background": "bg-transparent",
   "activeSlide": {
     "components": [
       {
-        "TextBox": {},
-        "x": 326,
-        "y": 264,
+        "src": "http://i.imgur.com/RYscF9I.png",
+        "type": "Image",
+        "x": 207,
+        "y": 270,
         "scale": {
-          "x": 1,
-          "y": 1
+          "x": 0.585,
+          "y": 0.585,
+          "width": 585,
+          "height": 146.25
         },
-        "type": "TextBox",
-        "size": 64,
-        "text": "<font face=\"Droid Sans Mono\" color=\"#333333\">Git GUI's</font>",
+        "imageType": "PNG",
         "selected": false
       }
     ],
@@ -1255,11 +1230,12 @@
     "rotateX": 0,
     "rotateY": 0,
     "rotateZ": 0,
-    "index": 36,
+    "index": 40,
     "selected": true,
     "active": true,
-    "x": 6725,
-    "y": 1749
+    "x": 1166,
+    "y": 1858,
+    "markdown": ""
   },
   "fileName": "presentation-1",
   "customStylesheet": "/*.example {\n\tborder: 4px groove orange;\n}*/",
